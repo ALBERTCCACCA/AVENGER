@@ -1,2 +1,2 @@
 1. mision 1ra
-2. 
+2. segunda mision
